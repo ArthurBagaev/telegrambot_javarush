@@ -1,5 +1,5 @@
 ## Overview
-Java Rush Telegram Bot
+JavaRush Telegram Bot
 
 ## Building
 ...
